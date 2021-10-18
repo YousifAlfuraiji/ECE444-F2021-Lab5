@@ -1,3 +1,16 @@
+# ECE444 Lab 5 - Forentend Design
+By: Yousif Al-Furaiji
+
+This repo is a clone of https://github.com/nelaturuk/education_pathways
+
+## Activity 1: Screenshot
+![Acitivity 1](https://user-images.githubusercontent.com/47069889/137664552-f37869af-6688-4565-9ce2-349f582410b1.png)
+
+## Activity 6: Screenshot and Question Response
+![Activity 6](https://user-images.githubusercontent.com/47069889/137664570-c10268a2-58e0-4f95-bcd6-e6e036c76ab1.png)
+
+The new UI has a much more readable table. In the old UI, the text in some of the columns did not align with the header text which can cause issues as a person would have to slow down reading while going through many entries in the table. In the new styled UI, the table columns are properly spaced out using padding and text align CSS properties. The new table is also more readable due to the different color header.
+
 # CARTE Education Pathways
 
 ## Description
