@@ -1,3 +1,10 @@
+# ECE444 Lab 5 - Forentend Design
+By: Yousif Al-Furaiji
+
+This repo is a clone of https://github.com/nelaturuk/education_pathways
+
+
+
 # CARTE Education Pathways
 
 ## Description
